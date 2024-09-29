@@ -1,0 +1,12 @@
+{
+  "name": "ARCMA",
+  "symbol": "ARCMA",
+  "uri": "https://raw.githubusercontent.com/muazim-ai/armca/main/metadata/0.png", 
+  "seller_fee_basis_points": 500,
+  "creators": [
+    {
+      "address": "CNtCpt2xPcqwRKj4op8eWniGdQJdjbYMER6nqaLFcQ9i",
+      "share": 100
+    }
+  ]
+}
